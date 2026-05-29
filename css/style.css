@@ -81,17 +81,19 @@ img { max-width: 100%; height: auto; display: block; }
 
 .logo-text {
   font-family: var(--font-heading);
-  font-size: 1.35rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-size: 1.55rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
 }
 
 .logo-tagline {
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   color: var(--color-text-muted);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-top: -2px;
+  letter-spacing: 0.1em;
+  margin-top: 1px;
+  font-weight: 500;
 }
 
 .nav-main {
